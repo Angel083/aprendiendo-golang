@@ -4,14 +4,14 @@ Este es el primer curso de EDteam para usar el lenguaje Golang.
 ## Cantidad de horas para acabar el curso: 
 - *5* horas
 ## Cantidad de horas invertidas reales:
-- *n* horas
+- *.5 horas
 ## Secciones
 Este curso se divide en las siguientes partes con sus respectivas clases:
-- [ ] Introducción
-  - [ ] Bienvenida e Introducción
-  - [ ] Go Playground
-  - [ ] Instalacion en linux
-  - [ ] Instalar VSC
+- [x] Introducción
+  - [x] Bienvenida e Introducción
+  - [x] Go Playground
+  - [x] Instalacion en linux
+  - [x] Instalar VSC
 - [ ] Variables, operadores y tipos de datos
   - [ ] Variables
   - [ ] Constantes
