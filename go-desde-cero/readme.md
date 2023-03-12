@@ -12,13 +12,16 @@ Este curso se divide en las siguientes partes con sus respectivas clases:
   - [x] Go Playground
   - [x] Instalacion en linux
   - [x] Instalar VSC
-- [ ] Variables, operadores y tipos de datos
-  - [ ] Variables
-  - [ ] Constantes
-  - [ ] Comentarios
-  - [ ] Tipos de datos
-  - [ ] Operadores aritméticos y de asignación
-  - [ ] Operadores de comparación y lógicos
+- [x] Variables, operadores y tipos de datos
+  - [x] Variables
+  - [x] Constantes
+  - [x] Comentarios
+  - [x] Tipos de datos
+  - [x] Operadores aritméticos y de asignación
+    - [x] Aritméticos
+    - [x] Asignación
+    - [x] Comparación
+    - [x] Lógicos
 - [ ] Punteros, Arrays, slices, maps, structs
   - [ ] Punteros
   - [ ] Arrays
