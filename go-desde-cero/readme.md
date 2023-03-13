@@ -4,7 +4,7 @@ Este es el primer curso de EDteam para usar el lenguaje Golang.
 ## Cantidad de horas para acabar el curso: 
 - *5* horas
 ## Cantidad de horas invertidas reales:
-- *.5 horas
+- 2 horas
 ## Secciones
 Este curso se divide en las siguientes partes con sus respectivas clases:
 - [x] Introducción
@@ -23,8 +23,8 @@ Este curso se divide en las siguientes partes con sus respectivas clases:
     - [x] Comparación
     - [x] Lógicos
 - [ ] Punteros, Arrays, slices, maps, structs
-  - [ ] Punteros
-  - [ ] Arrays
+  - [x] Punteros
+  - [x] Arrays
   - [ ] Slices 
   - [ ] Maps
   - [ ] Estructuras
